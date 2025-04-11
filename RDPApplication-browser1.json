@@ -1,21 +1,8 @@
 {
   "win32": [
-    "AnyDesk",
-    "TeamViewer",
-    "mstsc",
   ],
   "darwin": [
-    "AnyDesk",
-    "TeamViewer",
-    "Telegram.app"
   ],
   "linux": [
-    "anydesk",
-    "teamviewer",
-    "remmina",
-    "discord",
-    "discord-bin",
-    "Telegram",
-    "telegram-desktop"
   ]
 }
